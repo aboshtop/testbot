@@ -10,4 +10,3 @@ aiogram==2.19
 grapheme==0.6.0
 heroku3==5.1.4
 keyboard
-sqlite3
